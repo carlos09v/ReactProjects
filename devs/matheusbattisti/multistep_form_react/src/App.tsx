@@ -27,6 +27,7 @@ const formTemplate: formFields = {
 
 function App() {
   const [data, setData] = useState(formTemplate)
+  // Salvar value dos forms
   const updateFieldHandler = (key: string, value: string) => {
     setData(prev => {
       return {...prev, [key]: value}
@@ -34,9 +35,9 @@ function App() {
   }
 
   const formComponents = [
-  <UserForm data={data} updateFieldHandler={updateFieldHandler} />,
-  <ReviewForm data={data} updateFieldHandler={updateFieldHandler} />,
-  <Thanks data={data} />
+    <UserForm data={data} updateFieldHandler={updateFieldHandler} />,
+    <ReviewForm data={data} updateFieldHandler={updateFieldHandler} />,
+    <Thanks data={data} />
   ]
 
   // Hook para mudar etapas
