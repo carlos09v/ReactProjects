@@ -7,10 +7,7 @@
 </div>
 
 <h2>2 - < <a href="https://github.com/carlos09v/ReactProjects/tree/main/devs/matheusbattisti/app_react-sass">Portfolio integrando o React com Sass</a> ></h2>
-<h3><a href="https://www.youtube.com/watch?v=5h4vMtBlQQU" target="_blank"> - Como fazer 📺</a></h3>
-<div align='center'>
-    <img width='600' src="https://github.com/carlos09v/ReactProjects/blob/main/devs/matheusbattisti/app_react-sass/src/preview.jpg?raw=true" alt="Portfolio">
-</div>
+
 
 <h2>3 - < ToDoList ></h2>
 <h3>1. (<a href="https://github.com/carlos09v/ReactProjects/tree/main/devs/matheusbattisti/toDoList_react">matheusbattisti</a>) - <a href="https://www.youtube.com/watch?v=pOVyVivyfok" target="_blank">< Como fazer 📺 ></a></h3>
@@ -21,10 +18,6 @@
 </div>
 
 <h2>4 - < <a href="https://github.com/carlos09v/ReactProjects/tree/main/devs/matheusbattisti/app_react-axios">Consumo API utilizando Axios</a> ></h2>
-<h3><a href="https://www.youtube.com/watch?v=NbhoeLj6lBs" target="_blank"> - Como fazer 📺</a></h3>
-<div align='center'>
-    <img width='500' src="https://github.com/carlos09v/ReactProjects/blob/main/devs/matheusbattisti/app_react-axios/src/assets/preview.jpg?raw=true" alt="Preview Home">
-</div>
 
 <h2>5 - < <a href="https://github.com/carlos09v/ReactProjects/tree/main/devs/matheusbattisti/multistep_form_react">Multistep_Form</a> ></h2>
 <h3><a href="https://multistepform-carlos09v.vercel.app/">👉🏽 Veja o site aqui 👈🏽</a></h3>
@@ -33,4 +26,11 @@
     <img width='400' src="https://github.com/carlos09v/ReactProjects/blob/main/devs/matheusbattisti/multistep_form_react/src/assets/preview1.jpg?raw=true" alt="MultistepForm Preview1">
     <img width='300' src="https://github.com/carlos09v/ReactProjects/blob/main/devs/matheusbattisti/multistep_form_react/src/assets/preview2.jpg?raw=true" alt="MultistepForm Preview2">
     <img width='300' src="https://github.com/carlos09v/ReactProjects/blob/main/devs/matheusbattisti/multistep_form_react/src/assets/preview3.jpg?raw=true" alt="MultistepForm Preview3">
+</div>
+
+<h2>6 - < <a href="https://github.com/carlos09v/ReactProjects/tree/main/devs/sujeitoprogramador/slide_react">Slide</a> ></h2>
+<h3><a href="https://slide-react-carlos09v.vercel.app/">👉🏽 Veja o site aqui 👈🏽</a></h3>
+<h3><a href="https://www.youtube.com/watch?v=7-3N1QdedaA&t=910s" target="_blank"> - Como fazer 📺</a></h3>
+<div align='center'>
+    <img width='500' src="https://github.com/carlos09v/ReactProjects/blob/main/devs/sujeitoprogramador/slide_react/src/imgs/preview.jpg?raw=true" alt="Slide_react">
 </div>
