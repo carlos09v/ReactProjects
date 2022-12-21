@@ -29,8 +29,14 @@
 </div>
 
 <h2>6 - < <a href="https://github.com/carlos09v/ReactProjects/tree/main/devs/sujeitoprogramador/slide_react">Slide</a> ></h2>
-<h3><a href="https://slide-react-carlos09v.vercel.app/">👉🏽 Veja o site aqui 👈🏽</a></h3>
 <h3><a href="https://www.youtube.com/watch?v=7-3N1QdedaA&t=910s" target="_blank"> - Como fazer 📺</a></h3>
 <div align='center'>
     <img width='500' src="https://github.com/carlos09v/ReactProjects/blob/main/devs/sujeitoprogramador/slide_react/src/imgs/preview.jpg?raw=true" alt="Slide_react">
+</div>
+
+<h2>7 - < <a href="https://github.com/carlos09v/ReactProjects/tree/main/devs/matheusbattisti/app_github-finder">GitHub Finder</a> ></h2>
+<h3><a href="https://github-finder-carlos09v.vercel.app/">👉🏽 Veja o site aqui 👈🏽</a></h3>
+<h3><a href="https://www.youtube.com/watch?v=3sQITRihW_A" target="_blank"> - Como fazer 📺</a></h3>
+<div align='center'>
+    <img width='500' src="https://github.com/carlos09v/ReactProjects/blob/main/devs/matheusbattisti/app_github-finder/src/assets/preview.jpg?raw=true" alt="GitHub_Finder">
 </div>

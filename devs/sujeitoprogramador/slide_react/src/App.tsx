@@ -10,7 +10,7 @@ import image4 from './imgs/4.jpg'
 const images = [image1, image2, image3, image4]
 
 function App() {
-  const carrossel = useRef()
+  const carrossel = useRef<any>()
   const [width, setWidth] = useState(0)
 
   useEffect(() => {
