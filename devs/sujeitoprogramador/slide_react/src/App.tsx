@@ -15,7 +15,7 @@ function App() {
 
   useEffect(() => {
     // Largura Máxima do Drag no Carrossel
-    console.log(carrossel.current?.scrollWidth, carrossel.current?.offsetWidth)
+    // console.log(carrossel.current?.scrollWidth, carrossel.current?.offsetWidth)
     
     setWidth(carrossel.current?.scrollWidth - carrossel.current?.offsetWidth)
   }, [])
