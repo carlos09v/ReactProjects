@@ -1,0 +1,2 @@
+Aula -> Consumindo API no front-end com AXIOS - Root #25
+https://www.youtube.com/watch?v=VM4e37DaskU&ab_channel=Rocketseat

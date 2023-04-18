@@ -1,0 +1,9 @@
+Aula => Consumo de APIs RESTful no React da maneira certa - Decode #009
+https://www.youtube.com/watch?v=uNFB9EbQz90&t=2423s
+
+1. Libs usadas
+    1.1 - axios 
+    1.2 - react-query
+
+1? Libs Mencionadas
+    1.1 - SWR (stale-while-revalidate => Cache Control) => React Hooks for Data Fetching 
