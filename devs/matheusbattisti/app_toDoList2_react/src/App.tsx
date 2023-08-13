@@ -4,7 +4,7 @@ import './App.css'
 import Todo from './components/Todo'
 import TodoForm from './components/TodoForm'
 import Search from './components/Search'
-import Filter from './components/FIlter'
+import Filter from './components/Filter'
 
 function App() {
   const [todos, setTodos] = useState([
