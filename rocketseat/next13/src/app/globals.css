@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    h1 {
+        @apply text-xl underline text-center
+    }
+
+    a {
+        @apply px-8 bg-emerald-300 rounded-xl
+    }
+}

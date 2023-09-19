@@ -12,3 +12,6 @@
 " target="_blank">Como fazer 📺</a></p>
 <p>2. Consumo de APIs RESTful no React da maneira certa - Decode #009 - <a href="https://www.youtube.com/watch?v=uNFB9EbQz90&ab_channel=Rocketseat
 " target="_blank">Como fazer 📺</a></p>
+
+<h2>3 - < <a href="https://github.com/carlos09v/ReactProjects/tree/main/rocketseat/next13">Next 13</a> ></h2>
+<p>- <a href="https://www.youtube.com/watch?v=0zl72thBKzo" target="_blank">Video sobre as novidades do Next.js 13 📺</a></p>

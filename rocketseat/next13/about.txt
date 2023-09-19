@@ -1,0 +1,20 @@
+-- Next 13
+
+1. Partial Hydration (Hidratação Parcial)
+2. New (App) directory
+3. Layouts
+4. Rotas dinâmicas
+5. Fetch de dados nas páginas
+    5.1. Revalidate
+    5.2. Cache
+5. Evitando request waterfall
+7. Fecth de dados nos componentes
+8. Deduplicação de requisiçoes
+9. Acessando Cookies e Headers
+10. Utilizando Suspense API
+11. Streaming SSR
+12. Roteamento no NextJS
+13. Cache das rotas em Memória
+14. Prefetch de páginas
+15. Client-side components ('use client')
+16. Trabalhando com SEO
